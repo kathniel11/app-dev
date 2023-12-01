@@ -1,2 +1,3 @@
-# app-dev
-My First Repository
+Cant' Buy Me Love
+**Senior High**
+*Supernatural*
